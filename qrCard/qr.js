@@ -1,0 +1,1 @@
+const QR = new QRCode('qr-container', 'https://www.frontendmentor.io/');
